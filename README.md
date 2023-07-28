@@ -131,9 +131,7 @@ Example command:
  gem install rails
 ```
  -->
-
 ### Setup
-
 Clone this repository to your desired folder:
 
 <!--
