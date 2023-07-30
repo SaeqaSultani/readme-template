@@ -133,7 +133,6 @@ Example command:
  -->
 ### Setup
 Clone this repository to your desired folder:
-
 <!--
 Example commands:
 
@@ -144,7 +143,6 @@ Example commands:
 --->
 
 ### Install
-
 Install this project with:
 
 <!--
@@ -225,11 +223,9 @@ Example:
 - [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
-
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
